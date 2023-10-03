@@ -8,4 +8,4 @@ def collage_maker(image1, image2, name):
     image.save(name)
 
 # To Run The Above Function
-collage_maker("image1.jpg", "image2.jpg", "new.jpg")
+collage_maker("_MG_0147.jpg", "_MG_0136.jpg", "_MG_0151.jpg")
